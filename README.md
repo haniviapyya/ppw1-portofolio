@@ -17,6 +17,7 @@ Belum tersedia.
 Daftar Tugas
 
 Bab	Nama File
+
 Bab 02	PertemuanKe2_Khadillaika_Hanivia.pdf
 Bab 03	PertemuanKe3_Khadillaika_Hanivia.pdf
 Bab 04	PertemuanKe4_Khadillaika_Hanivia.pdf
@@ -42,3 +43,5 @@ ppw1-portofolio/
 * Bab-12/
 
 Screenshot
+
+Dokumentasi dan hasil praktikum tersedia pada file PDF di setiap folder pertemuan.
